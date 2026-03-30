@@ -1,10 +1,9 @@
 # Media Search Submission
 
-This project allows searching through a collection of 132 SRT files (subtitles) with precision.
+This project allows searching through a collection of 139 SRT files (subtitles) with precision.
 
-## 🚀 [Access the Program Online](https://irons.github.io/media-search-submission/)
+## 🚀 [Access the Program Online](https://Johns74.github.io/media-search-submission/)
 
-*Note: Replace 'irons' with your actual GitHub username.*
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
