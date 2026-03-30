@@ -10,6 +10,12 @@ function App() {
   const [selectedResult, setSelectedResult] = useState(null); // { fileName, subtitles, activeIndex }
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [source, setSource] = useState(null); // 'directory' or 'workspace'
+  const [visibleCount, setVisibleCount] = useState(100);
+
+  // Reset visibleCount when search term changes
+  useEffect(() => {
+    setVisibleCount(100);
+  }, [searchTerm]);
 
   // Handle Directory Picker
   const handleLoadDirectory = async () => {
@@ -172,7 +178,7 @@ function App() {
             {results.length > 0 ? (
               <>
                 <div className="results-info" style={{marginBottom: '1rem'}}>Found {results.length} matches</div>
-                {results.slice(0, 100).map((result, i) => (
+                {results.slice(0, visibleCount).map((result, i) => (
                   <div key={i} className="result-card" onClick={() => openFullView(result)}>
                     <div className="result-header">
                       <span className="file-name" title={result.fileName}>
@@ -186,9 +192,15 @@ function App() {
                     </div>
                   </div>
                 ))}
-                {results.length > 100 && (
-                  <div className="results-info" style={{textAlign: 'center', padding: '2rem'}}>
-                    ...and {results.length - 100} more results.
+                {results.length > visibleCount && (
+                  <div className="load-more-container">
+                    <button className="btn btn-secondary" onClick={() => setVisibleCount(prev => prev + 100)}>
+                      <Sparkles size={16} />
+                      Load More ({results.length - visibleCount} remaining)
+                    </button>
+                    <button className="btn btn-ghost" onClick={() => setVisibleCount(results.length)}>
+                      Show All
+                    </button>
                   </div>
                 )}
               </>
