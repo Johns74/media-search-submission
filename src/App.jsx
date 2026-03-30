@@ -75,7 +75,9 @@ function App() {
             actualIdx: idx,
             start: sub.start,
             text: sub.text,
-            rawFile: file.raw
+            rawFile: file.raw,
+            videoId: file.videoId,
+            category: file.category
           });
         }
       });
@@ -84,10 +86,29 @@ function App() {
     return matches;
   }, [searchTerm, files]);
 
+  // Modal Scrolling Logic
+  const activeBlockRef = React.useRef(null);
+  
+  useEffect(() => {
+    if (isModalOpen && activeBlockRef.current) {
+      setTimeout(() => {
+        activeBlockRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, 100);
+    }
+  }, [isModalOpen, selectedResult]);
+
   // Open Full Context
   const openFullView = (match) => {
     setSelectedResult(match);
     setIsModalOpen(true);
+  };
+
+  const getYoutubeUrl = (videoId, timestamp) => {
+    if (!videoId) return null;
+    // Convert 00:00:00,000 to seconds
+    const parts = timestamp.split(/[:,]/);
+    const seconds = parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseInt(parts[2]);
+    return `https://www.youtube.com/watch?v=${videoId}&t=${seconds}`;
   };
 
   const highlightText = (text, highlight) => {
@@ -150,11 +171,14 @@ function App() {
           <div className="results-grid">
             {results.length > 0 ? (
               <>
-                <div className="results-info">Found {results.length} matches</div>
+                <div className="results-info" style={{marginBottom: '1rem'}}>Found {results.length} matches</div>
                 {results.slice(0, 100).map((result, i) => (
                   <div key={i} className="result-card" onClick={() => openFullView(result)}>
                     <div className="result-header">
-                      <span className="file-name">{result.fileName}</span>
+                      <span className="file-name" title={result.fileName}>
+                        <span className={`badge ${result.category?.toLowerCase()}`}>{result.category}</span>
+                        {result.fileName}
+                      </span>
                       <span className="timestamp"><Clock size={12} style={{marginRight: 4}} />{result.start}</span>
                     </div>
                     <div className="result-text">
@@ -196,26 +220,85 @@ function App() {
       {/* Modal for Full View */}
       {isModalOpen && selectedResult && (
         <div className="overlay" onClick={() => setIsModalOpen(false)}>
-          <div className="modal" onClick={e => e.stopPropagation()}>
+          <div className="modal modal-large" onClick={e => e.stopPropagation()}>
             <header className="modal-header">
-              <div className="file-name" style={{maxWidth: '85%'}}>{selectedResult.fileName}</div>
-              <button className="btn" style={{padding: '5px'}} onClick={() => setIsModalOpen(false)}>
+              <div className="header-left">
+                <span className={`badge ${selectedResult.category?.toLowerCase()}`}>{selectedResult.category}</span>
+                <div className="file-name" title={selectedResult.fileName}>{selectedResult.fileName}</div>
+              </div>
+              <button className="btn btn-icon" onClick={() => setIsModalOpen(false)}>
                 <X size={20} />
               </button>
             </header>
-            <div className="modal-content">
-              {selectedResult.subtitles.map((sub, idx) => (
-                <div 
-                  key={idx} 
-                  className={`srt-block ${idx === selectedResult.actualIdx ? 'active' : ''}`}
-                  id={idx === selectedResult.actualIdx ? 'active-ref' : undefined}
-                >
-                  <div className="timestamp" style={{display: 'inline-block', marginBottom: '5px'}}>
-                    {sub.start}
+            
+            <div className="modal-layout">
+              <div className="transcript-container">
+                {selectedResult.subtitles.map((sub, idx) => {
+                  const isActive = idx === selectedResult.actualIdx;
+                  const ytUrl = getYoutubeUrl(selectedResult.videoId, sub.start);
+                  return (
+                    <div 
+                      key={idx} 
+                      className={`srt-block ${isActive ? 'active' : ''}`}
+                      ref={isActive ? activeBlockRef : null}
+                    >
+                      <div className="srt-meta">
+                        <span className="timestamp">{sub.start}</span>
+                        {ytUrl && (
+                          <a 
+                            href={ytUrl} 
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="yt-link"
+                            title="Open on YouTube at this exact time"
+                            onClick={(e) => e.stopPropagation()}
+                          >
+                            Watch at {sub.start}
+                          </a>
+                        )}
+                      </div>
+                      <div className="result-text">{highlightText(sub.text, searchTerm)}</div>
+                    </div>
+                  );
+                })}
+              </div>
+
+              {selectedResult.videoId && (
+                <div className="video-sidebar">
+                  <div className="player-wrapper">
+                    <iframe
+                      width="100%"
+                      height="200"
+                      src={`https://www.youtube.com/embed/${selectedResult.videoId}?start=${
+                        (() => {
+                          const parts = selectedResult.start.split(/[:,]/);
+                          return parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseInt(parts[2]);
+                        })()
+                      }`}
+                      title="YouTube video player"
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    ></iframe>
                   </div>
-                  <div className="result-text">{highlightText(sub.text, searchTerm)}</div>
+                  <div className="sidebar-info">
+                    <h3>YouTube Sync</h3>
+                    <p>The player above is set to start at <strong>{selectedResult.start}</strong>.</p>
+                    <a 
+                      href={getYoutubeUrl(selectedResult.videoId, selectedResult.start)} 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="btn btn-primary"
+                      style={{width: '100%', justifyContent: 'center', marginTop: '1rem'}}
+                    >
+                      Open in YouTube Browser
+                    </a>
+                    <p style={{fontSize: '0.8rem', marginTop: '1rem', opacity: 0.7}}>
+                      Tip: Each segment on the left has its own direct link to jump to that specific moment.
+                    </p>
+                  </div>
                 </div>
-              ))}
+              )}
             </div>
           </div>
         </div>
