@@ -1,0 +1,1569 @@
+
+1
+00:01:08,619 --> 00:01:15,260
+How this mathematical miracle of the
+Quran was discovered? When I came to this
+
+2
+00:01:15,260 --> 00:01:21,750
+country, the United States, in 1968, I read
+the English translations of the Quran
+
+3
+00:01:21,750 --> 00:01:27,731
+and I didn't like any of them. I read
+them all, Yusuf Ali, Muhammad Ali,
+
+4
+00:01:27,731 --> 00:01:33,429
+Pickthall, Arberry, N. J. Dawood, and so
+on. All of them, even as far back as
+
+5
+00:01:33,429 --> 00:01:40,280
+George Sale's translation. Some of them
+actually distorted the basic doctrines
+
+6
+00:01:40,280 --> 00:01:47,980
+of the Quran and that was serious enough
+to encourage me to translate the Quran
+
+7
+00:01:47,980 --> 00:01:55,190
+myself, for my own children. I did it just
+for local consumption. However, because
+
+8
+00:01:55,190 --> 00:01:58,864
+I'm a chemist and not a professional
+religionist,
+
+9
+00:01:58,864 --> 00:02:06,566
+I decided not to move from one verse to
+the next unless I knew exactly what
+
+10
+00:02:06,566 --> 00:02:12,290
+every word and every verse meant. I made
+a pledge to God that I will not move
+
+11
+00:02:12,290 --> 00:02:19,370
+from one verse to the next unless I know
+exactly what it meant. So, I started the
+
+12
+00:02:19,370 --> 00:02:23,881
+translation and I finished the first
+Surah, Al-Fãtehah
+
+13
+00:02:23,881 --> 00:02:29,420
+in seven days. Then, I moved on to the
+next verse, the first verse of Sura
+
+14
+00:02:29,420 --> 00:02:33,819
+number two, Al-Baqarah.
+And I found that it consisted of only
+
+15
+00:02:33,819 --> 00:02:38,950
+three letters:
+ا ل م  = A.L.M. Of course, I knew this
+
+16
+00:02:38,950 --> 00:02:45,190
+all along since I was a young child, but
+now I'm trying to translate it.
+
+17
+00:02:45,190 --> 00:02:52,529
+I wanted to know exactly what the
+significance of A.L.M. is. I looked up all
+
+18
+00:02:52,529 --> 00:02:59,230
+the Tafseers, interpretations, and all
+the books written about these letters
+
+19
+00:02:59,230 --> 00:03:06,400
+and everybody, all the scholars said "we
+do not know what these letters mean." So, I
+
+20
+00:03:06,400 --> 00:03:13,060
+started my own research and after many
+attempts and many failures, I decided to
+
+21
+00:03:13,060 --> 00:03:21,760
+put the whole Quran in the computer. I
+didn't know what to look for. So, I had
+
+22
+00:03:21,760 --> 00:03:27,549
+the computer count every letter in every
+Sura, and the objective was to look for
+
+23
+00:03:27,549 --> 00:03:34,390
+any mathematical connections or any
+mathematical pattern between... that
+
+24
+00:03:34,390 --> 00:03:40,900
+involves these letters. There are 29
+Suras in the Quran prefixed with these
+
+25
+00:03:40,900 --> 00:03:45,040
+initials, different sets of initials, 14 sets of
+
+26
+00:03:45,040 --> 00:03:51,593
+initials to be exact:
+ ا ل م,  نون, ص, ق, ط س م
+
+27
+00:03:51,593 --> 00:04:00,660
+ی س, ط ح, and so on, 14 of them. And sure enough, after 4 years of research
+
+28
+00:04:00,660 --> 00:04:06,280
+a mathematical pattern emerged
+with a common denominator binding
+
+29
+00:04:06,280 --> 00:04:11,410
+all these initials without a single
+exception. And the common denominator was
+
+30
+00:04:11,410 --> 00:04:19,900
+19. As it turned out, and as you will see
+in this program, every element of the
+
+31
+00:04:19,900 --> 00:04:25,770
+Quran: the number of verses, the numbers
+assigned to the Suras, numbers of words,
+
+32
+00:04:25,770 --> 00:04:30,100
+the letters, every letter in the Quran is
+mathematically
+
+33
+00:04:30,100 --> 00:04:36,070
+composed beyond human capability. And the common denominator
+
+34
+00:04:36,070 --> 00:04:43,000
+that binds all these mathematical
+physical facts is the number 19.
+
+35
+00:05:16,706 --> 00:05:22,360
+So, let us get down to business and look at the Quran itself. And I would like to remind
+
+36
+00:05:22,360 --> 00:05:29,140
+you that all the items you're going to
+see are factual observations. They're all
+
+37
+00:05:29,140 --> 00:05:35,250
+physical facts in the Quran. So, here is a
+big Quran that we can see together
+
+38
+00:05:35,250 --> 00:05:44,460
+and the first item of this miracle is that
+the first verse in the Quran:
+
+39
+00:05:44,460 --> 00:05:52,030
+"Bism Allah Arrahman Arraheem" consists of
+19 Arabic letters. Here they are: 1, 2, 3, 4,
+
+40
+00:05:52,030 --> 00:06:04,990
+5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19 letters. And the whole Quran has 114
+
+41
+00:06:04,990 --> 00:06:17,220
+Suras. As we see here, the last Sura is
+number 114, and 114 is a multiple of 19,
+
+42
+00:06:17,220 --> 00:06:24,362
+19 times 6. And it consists of six verses, by the way.
+
+43
+00:06:24,362 --> 00:06:35,140
+So, 19 times 6 gives us the total
+number of Suras in the Quran, 114.
+
+44
+00:06:35,140 --> 00:06:47,540
+Now, if we count from this Sura towards the other Suras, here is 1, 2, 3, 4,
+
+45
+00:06:47,540 --> 00:07:11,413
+5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19.
+
+46
+00:07:11,413 --> 00:07:19,591
+We find that number 19 is the first revelation in Quran, Sura number 96 and it says
+
+47
+00:07:19,591 --> 00:07:21,866
+(96:1) ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
+
+48
+00:07:21,866 --> 00:07:30,759
+the first revelation. So, the first Sura revealed is
+positioned, in the Quran, atop the last
+
+49
+00:07:30,759 --> 00:07:39,772
+19 Suras in the Quran. You also notice
+that this Sura consists of 19 verses.
+
+50
+00:07:39,772 --> 00:07:51,906
+The first revelation was 19 words
+exactly. Here they are: 1, 2, 3, 4, 5, 6, 7, 8, 9,
+
+51
+00:07:51,906 --> 00:08:07,160
+10, then go to the next page, 11, 12, 13, 14,
+15, 16, 17, 18, 19. This was the first
+
+52
+00:08:07,160 --> 00:08:13,790
+revelation through the Prophet Muhammad,
+and it consisted of 19 words. If you
+
+53
+00:08:13,790 --> 00:08:22,769
+count the letters in these 19 words, you
+find that the total is 76, 19 times 4.
+
+54
+00:08:22,769 --> 00:08:28,990
+And if you count the letters in the whole Sura, the first
+
+55
+00:08:28,990 --> 00:08:39,150
+Sura revealed, you find that the total
+is 285 letters, or 19 times 15.
+
+56
+00:08:41,729 --> 00:08:51,640
+The last Sura revealed was Sura number
+110 and it consists also of 19 words.
+
+57
+00:08:51,640 --> 00:09:09,610
+Here they are: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19. So, the last
+
+58
+00:09:09,610 --> 00:09:16,000
+revelation and the first revelation
+consisted of 19 words. Now, if you go back
+
+59
+00:09:16,000 --> 00:09:27,400
+to the very beginning, the first verse
+in the Quran, as you heard before
+
+60
+00:09:27,400 --> 00:09:31,390
+the first verse of the Quran "Bism Allah
+Arrahman Arraheem" consists of 19
+
+61
+00:09:31,390 --> 00:09:38,680
+letters. Every word, there are four words
+here, and every word is mentioned in the
+
+62
+00:09:38,680 --> 00:09:45,301
+Quran a number of times which is
+consistently a multiple of 19. The word
+
+63
+00:09:45,301 --> 00:09:51,400
+"ism" which means name is mentioned in the Quran 19 times, exactly.
+
+64
+00:09:51,400 --> 00:09:57,929
+If you wish to use the word "Bism", it
+is mentioned three times, but if you add
+
+65
+00:09:57,929 --> 00:10:03,820
+the numbers assigned to the verses and
+Suras where the 3 times of "Bism" occur, the
+
+66
+00:10:03,820 --> 00:10:12,034
+total is 114, 19 times 6. The second word
+"Allah" is mentioned in the whole book
+
+67
+00:10:12,034 --> 00:10:19,450
+2698 times, or 19 times 142. The third word
+
+68
+00:10:19,450 --> 00:10:26,601
+"Arrahman" is mentioned in the whole
+Quran 57 times, or 19 times 3.
+
+69
+00:10:26,601 --> 00:10:34,679
+The last word "Arraheem" is mentioned in the whole
+book 114 times, or 19 times 6.
+
+70
+00:11:31,712 --> 00:11:36,940
+As you see, Bism Allah Arrahman Arraheem,
+the first verse in the Quran is very
+
+71
+00:11:36,940 --> 00:11:42,720
+important. And you will see it at the
+beginning of every Sura in the Quran.
+
+72
+00:11:42,720 --> 00:11:50,220
+Every Sura has this "Bism Allah
+Arrahman Arraheem" at the beginning except one.
+
+73
+00:11:50,220 --> 00:11:56,500
+However, only the first verse of the first
+Sura is numbered. It has number one.
+
+74
+00:11:56,500 --> 00:12:00,970
+When you go to the other Suras, you
+find that this opening statement has no
+
+75
+00:12:00,970 --> 00:12:08,829
+number. This is why we take only the
+first opening statement to represent
+
+76
+00:12:08,829 --> 00:12:14,410
+all the Bismillahs in the Quran, all the
+opening statements of the Quran. If you
+
+77
+00:12:14,410 --> 00:12:25,029
+go to Sura 9, you will notice that this
+Sura does not have a Basmalah. It says
+
+78
+00:12:25,029 --> 00:12:29,293
+here that this Sura does not have Bismillah.
+
+79
+00:12:29,293 --> 00:12:35,649
+Now, since the Quran has 114 Suras, and
+this one does not have an opening
+
+80
+00:12:35,649 --> 00:12:43,779
+statement, this will mean that we have
+only 113 Basmalahs in the Quran, and this
+
+81
+00:12:43,779 --> 00:12:51,189
+number is not divisible by 19. But we
+find that this missing Bismillah is made
+
+82
+00:12:51,189 --> 00:13:05,131
+up in Sura number 27. So, if you go to
+surah number 27,
+
+83
+00:13:05,131 --> 00:13:08,599
+you will see that we have two "Bismillahs."
+
+84
+00:13:08,599 --> 00:13:15,690
+This is Sura number 27, and there is one
+"Bism Allah Arrahman Arraheem" at the
+
+85
+00:13:15,690 --> 00:13:21,990
+beginning, like every other surah except
+Sura 9 and there is an extra one
+
+86
+00:13:21,990 --> 00:13:26,460
+in the middle of the Sura. Right here in
+verse 30, you'll see another
+
+87
+00:13:26,460 --> 00:13:34,320
+"Bism Allah Arrahman Arraheem." So, this Sura
+contains two of them, two of the opening
+
+88
+00:13:34,320 --> 00:13:40,821
+statement or "Basmalahs", one at the
+beginning and one in verse 30.
+
+89
+00:13:40,821 --> 00:13:47,900
+And this restores the number of this
+important opening statement to 114
+
+90
+00:13:47,900 --> 00:13:57,810
+or 19 times 6.
+Also, if you count the Suras from the
+
+91
+00:13:57,810 --> 00:14:06,350
+missing Bismillah of Sura 9... see, there's
+the missing Bismillah of Sura 9.
+
+92
+00:14:06,350 --> 00:14:11,100
+And then we count the Suras from here to
+the place where we find the extra
+
+93
+00:14:11,100 --> 00:14:15,830
+Bismillah. Here is one. This is number 1.
+
+94
+00:14:17,330 --> 00:14:27,920
+2 Suras, 3 Suras,
+
+95
+00:14:31,009 --> 00:14:52,050
+4, 5, 6, we are counting from the
+missing Bismillah to the extra
+
+96
+00:14:52,050 --> 00:15:22,250
+Bismillah, this will be 7, 8, 9, 10, 11,
+
+97
+00:15:27,170 --> 00:15:30,170
+12,
+
+98
+00:15:36,100 --> 00:15:40,100
+13,
+
+99
+00:15:42,070 --> 00:16:02,110
+14, 15, 16, and 17,
+
+100
+00:16:02,590 --> 00:16:09,110
+we didn't get to Sura 27 yet. This is 25
+which is the 17th Sura from the missing
+
+101
+00:16:09,110 --> 00:16:21,225
+Bismillah. Here is 18, and you'll find
+that the Sura that has two Bismillahs,
+
+102
+00:16:21,225 --> 00:16:29,450
+Sura number 27, is Sura number 19. From
+the missing "Bismillah" to the extra
+
+103
+00:16:29,450 --> 00:16:37,251
+"Bismillah", from Sura 9 to Sura 27, we
+find exactly 19 Suras, inclusive.
+
+104
+00:16:37,251 --> 00:16:48,730
+This is the Sura that has two "Bismillahs" and it
+is Sura number 19 after the missing
+
+105
+00:16:48,730 --> 00:16:55,850
+"Bismillah" of Sura 9. From the missing
+"Bismillah" in Sura 9 to the extra
+
+106
+00:16:55,850 --> 00:17:03,770
+"Bismillah" in Sura 27, there are 19 Suras.
+
+107
+00:17:03,770 --> 00:17:09,380
+So, when you count the Suras from the
+missing "Bism Allah Arrahman Arraheem" of
+
+108
+00:17:09,380 --> 00:17:17,450
+Sura 9 to the extra "Bismillah" in Sura
+27, you find 19 Suras. Now, watch this:
+
+109
+00:17:17,450 --> 00:17:23,209
+if you add the numbers of the Suras, the
+numbers assigned to the Suras, from 9
+
+110
+00:17:23,209 --> 00:17:28,640
+to 27, from the missing Bismillah to the
+extra Bismillah, that is 9 plus 10
+
+111
+00:17:28,640 --> 00:17:34,839
+plus 11 plus 12 plus 13 all the way to
+plus 26 plus 27,
+
+112
+00:17:34,839 --> 00:17:43,910
+the total is 342 which is a multiple of
+19. It is 19 times 18. And this is half the
+
+113
+00:17:43,910 --> 00:17:50,360
+story. You add the numbers of the Suras
+from the missing Bismillah to the extra
+
+114
+00:17:50,360 --> 00:17:58,220
+Bismillah 9 + 10 + 11 all the way to 27
+the total, 342, is exactly the number of
+
+115
+00:17:58,220 --> 00:18:04,880
+words between the two Bismillahs of
+Sura 27, the number of words, as you see
+
+116
+00:18:04,880 --> 00:18:16,746
+here. This total, 342, is exactly the
+number of words between this Bismillah
+
+117
+00:18:16,746 --> 00:18:22,902
+in Sura 27, and the second Bismillah 
+of Sura 27. You count these words.
+
+118
+00:18:22,902 --> 00:18:28,070
+You count all these words and
+you'll find that the total, up to this
+
+119
+00:18:28,070 --> 00:18:36,590
+word here, before the second Bismillah,
+up to this word, the total is 342, which
+
+120
+00:18:36,590 --> 00:18:42,640
+equals the total of the numbers of Suras
+from the missing Bismillah to this extra
+
+121
+00:18:42,640 --> 00:18:45,000
+Bismillah.
+
+122
+00:19:59,720 --> 00:20:10,770
+The number of verses "Ayat" in the Quran,
+from the beginning, from the first AYA
+
+123
+00:20:10,770 --> 00:20:18,856
+or verse, to the very end,
+
+124
+00:20:18,856 --> 00:20:27,530
+to the last AYA is 6346, which is a
+
+125
+00:20:27,530 --> 00:20:33,375
+multiple of 19. The total number of
+AYAT, verses, in the Quran
+
+126
+00:20:33,375 --> 00:20:39,729
+6346, or 19 times 334.
+
+127
+00:20:44,502 --> 00:20:52,160
+As I mentioned before, there are 29 Suras in Quran that are initialed with these Quranic
+
+128
+00:20:52,160 --> 00:20:59,419
+initials. And the first initial in the
+Quran is in Sura number two, the first
+
+129
+00:20:59,419 --> 00:21:07,429
+verse:
+(الم) A.L.M. The last initial is the
+
+130
+00:21:07,429 --> 00:21:14,530
+initial NuN (نون) in Sura number 68, which
+is right here.
+
+131
+00:21:29,589 --> 00:21:40,069
+This initial here is the last initial.
+This here is the first initial and this
+
+132
+00:21:40,069 --> 00:21:49,129
+is the last initial. The number of AYAT
+or verses in this section here, from the
+
+133
+00:21:49,129 --> 00:21:53,085
+first initial to the last initial, is
+
+134
+00:21:53,085 --> 00:22:02,588
+5263 AYAT or verses, 19 times 277. You just
+
+135
+00:22:02,588 --> 00:22:10,069
+start at الم (A.L.M.), the first
+Quranic initial, and you count all the
+
+136
+00:22:10,069 --> 00:22:20,320
+verses in here up to this verse in Sura
+68, and you'll find that the total
+
+137
+00:22:20,320 --> 00:22:27,860
+is 5263, or 19 times 277.
+
+138
+00:22:27,860 --> 00:22:31,419
+Also, if you count the word "Allah"
+
+139
+00:22:31,419 --> 00:22:38,509
+in this section between the first
+initial and the last initial, you'll
+
+140
+00:22:38,509 --> 00:22:45,531
+find that the total of the word "Allah"
+here is 2641
+
+141
+00:22:45,531 --> 00:22:54,199
+which is a multiple of 19,
+19 times 139. And of course,
+
+142
+00:22:54,199 --> 00:23:00,459
+if you count the word "Allah" outside of
+this section, that will be here
+
+143
+00:23:00,459 --> 00:23:05,188
+and before الم (A.L.M.), the word "Allah" is
+
+144
+00:23:05,188 --> 00:23:11,739
+57 times, is found 57 times
+or 19 times 3.
+
+145
+00:23:11,770 --> 00:23:21,251
+In the section from the first initial, الم (A.L.M.) to the last initial, NuN (نون),
+
+146
+00:23:21,251 --> 00:23:28,147
+there are exactly 38 Suras without
+initials. The un-initialed Suras here are 38
+
+147
+00:23:28,147 --> 00:23:36,277
+which is a multiple of 19, 19 times 2. So,
+this is another physical fact.
+
+148
+00:23:41,398 --> 00:23:50,450
+Now, I mentioned that outside of this section,
+there are 57 word "Allah." That's outside
+
+149
+00:23:50,450 --> 00:23:57,080
+the initialed section of the Quran, in this
+part and this part to the end. There are
+
+150
+00:23:57,080 --> 00:24:04,610
+57 words "Allah." If you add the numbers of
+the Suras, the numbers assigned to the
+
+151
+00:24:04,610 --> 00:24:12,447
+Suras, like this number here, and the
+numbers assigned to the verses, the total
+
+152
+00:24:12,447 --> 00:24:21,080
+is 2432, or 19 times 128. Now, I'm talking
+about the numbers assigned to the Suras
+
+153
+00:24:21,080 --> 00:24:27,020
+and verses where you find the word "Allah"
+outside of the initialed section. You add
+
+154
+00:24:27,020 --> 00:24:30,860
+these numbers assigned to the Suras and
+to the verses wherever you find the
+
+155
+00:24:30,860 --> 00:24:37,370
+word "Allah", and the total is a multiple
+of 19. Well, this proves that the numbers
+
+156
+00:24:37,370 --> 00:24:42,350
+assigned to the Suras and the numbers
+assigned to the verses are from God,
+
+157
+00:24:42,350 --> 00:24:43,668
+not from humans.
+
+158
+00:25:48,554 --> 00:25:58,080
+The word "Al-Quran" is mentioned in
+the Quran 57 times. That is 19 times 3.
+
+159
+00:25:58,080 --> 00:26:07,810
+Isn't that profound? And if you add the
+numbers of the Suras and the numbers
+
+160
+00:26:07,810 --> 00:26:18,690
+of verses, where the word the Quran is found,
+the total is 2660, which is 19 times
+
+161
+00:26:18,690 --> 00:26:25,810
+140. I'm talking about the numbers - for
+example, this word here, Al-Quran, is in
+
+162
+00:26:25,810 --> 00:26:37,981
+Sura 17. See the Sura number is 17,
+
+163
+00:26:37,981 --> 00:26:47,430
+and the verse number is 45 as you see
+here. You take these numbers, the 57 times
+
+164
+00:26:47,430 --> 00:26:52,320
+where the word Quran is found in the
+Quran, and you add the numbers of the
+
+165
+00:26:52,320 --> 00:26:56,453
+verses and the numbers of the Suras,
+altogether, the total is
+
+166
+00:26:56,453 --> 00:27:05,130
+2660, or 19 times 140.
+There are other grammatical forms of
+
+167
+00:27:05,130 --> 00:27:12,840
+this word "Al-Quran" like "Al-Quranan" and "Al-Quranahu" and if you add all the
+
+168
+00:27:12,840 --> 00:27:17,924
+Suras and all the verses, the numbers of
+the verses and the numbers of the Suras,
+
+169
+00:27:17,924 --> 00:27:24,319
+where these forms, different forms of the
+word "Quran" is found, the grand total
+
+170
+00:27:24,319 --> 00:27:33,510
+is 3363, or 19 times 177. Of course, the word
+
+171
+00:27:33,510 --> 00:27:42,254
+"Quran" is very special and this is why it
+is so intricately composed within the Quran.
+
+172
+00:28:10,314 --> 00:28:18,970
+The first pillar of Islam, mainly that
+God is one, is mentioned in the Quran
+
+173
+00:28:18,970 --> 00:28:25,531
+exactly 19 times, that "Allah Wahid." God is
+one, is mention in the Quran exactly
+
+174
+00:28:25,531 --> 00:28:37,229
+19 times. Now, there's also the word "Wahdahu", worship God alone.
+
+175
+00:28:37,229 --> 00:28:42,350
+This commandment to worship God alone "Wahdahu" is mentioned in the Quran five
+
+176
+00:28:42,350 --> 00:28:49,340
+times, and if you add the numbers of the
+verses and the numbers of Suras where
+
+177
+00:28:49,340 --> 00:28:58,333
+the word "Wahdahu" worship God alone
+occurs, the total is 361, or 19 times 19.
+
+178
+00:28:58,333 --> 00:29:06,234
+So, this emphasizes the importance of
+worshiping God alone. The word "Wahid"
+
+179
+00:29:06,234 --> 00:29:11,471
+referring to God as one, is mentioned in the
+Quran 19 times and the word "Wahdahu"
+
+180
+00:29:11,471 --> 00:29:19,910
+is mentioned 5 times, but when you add
+the verses and Suras' numbers where this
+
+181
+00:29:19,910 --> 00:29:25,780
+word "Wahdahu" is found, the total is 361, 19 times 19.
+
+182
+00:29:33,482 --> 00:29:38,470
+For example, this word "Wahdahu" happens in verse 12
+
+183
+00:29:38,470 --> 00:29:47,720
+of Sura number 40. So, you take this
+number 40 and the number of the
+
+184
+00:29:47,720 --> 00:29:51,650
+verse 12, and you do this every
+time you see the word "Wahdahu" in the
+
+185
+00:29:51,650 --> 00:29:57,076
+Quran and the total is 361, 19 times 19.
+
+186
+00:30:30,430 --> 00:30:38,860
+The other 4 pillars of Islam, the Salat,
+the Zakat, the Hajj and Siyam,
+
+187
+00:30:38,860 --> 00:30:44,161
+are mentioned in the Quran 114 times,
+or 19 times 6.
+
+188
+00:30:44,161 --> 00:30:48,530
+Now, when you take the word "Salat" for
+example, which happens in the Quran 67
+
+189
+00:30:48,530 --> 00:30:55,400
+times, and you take the numbers of verses
+and the numbers of the Suras where
+
+190
+00:30:55,400 --> 00:31:03,610
+every time you see this word "Salat"
+and you add them up, the total
+
+191
+00:31:03,610 --> 00:31:17,110
+is a multiple of 19. It is 4674, or 19
+times 246, the word "Salat" throughout the
+
+192
+00:31:17,110 --> 00:31:23,320
+Quran. You add the verses and the numbers of the verses and the
+
+193
+00:31:23,320 --> 00:31:28,749
+numbers of Suras where the word "Salat" occurs, and the total is
+
+194
+00:31:28,749 --> 00:31:34,400
+4674, or 19 times 246.
+
+195
+00:31:34,400 --> 00:31:42,100
+If you go to the word "Zakat", you
+find that "Zakat" and "Hajj", you add the
+
+196
+00:31:42,100 --> 00:31:48,025
+numbers of the verses and the numbers of
+Suras where "Zakat" and "Hajj" are found,
+
+197
+00:31:48,025 --> 00:31:58,149
+and the total is 2888,
+or 19 times 19 times 8. This is "Zakat" and
+
+198
+00:31:58,149 --> 00:32:05,036
+"Hajj" together. You add the numbers of the
+verses and the numbers of the Suras
+
+199
+00:32:05,036 --> 00:32:14,499
+throughout the Quran where you see "Zakat" and "Hajj." When you look at the word
+
+200
+00:32:14,499 --> 00:32:21,159
+"Siyam" in the Quran, the whole Quran, the
+fasting of Ramadan, you'll see that it
+
+201
+00:32:21,159 --> 00:32:29,619
+occurs 6 times. And if you add the
+numbers of the verses to the numbers
+
+202
+00:32:29,619 --> 00:32:38,258
+of the Suras, every time you see this word
+"Siyam" in all its forms, the total is
+
+203
+00:32:38,258 --> 00:32:48,340
+1387, or 19 times 37.
+So, the basic pillars of Islam, the
+
+204
+00:32:48,340 --> 00:32:52,821
+numbers assigned to the Suras and
+verses where these words are found,
+
+205
+00:32:52,821 --> 00:32:56,481
+all these numbers are multiples of 19.
+
+206
+00:34:42,890 --> 00:34:50,399
+The Sura entitled "Q" is also initialed with
+the letter "Q." And when you count this
+
+207
+00:34:50,399 --> 00:34:59,730
+letter "Q", every time you see it, you
+count it, in the Quran, in this Sura,
+
+208
+00:34:59,730 --> 00:35:07,520
+you'll find that the total of the letter
+"Q" in this Sura is 57, or 19 times 3.
+
+209
+00:35:07,550 --> 00:35:13,360
+Also, the only other Sura initialed
+
+210
+00:35:13,360 --> 00:35:21,730
+with "Q", which is surah number 42 - there's
+the letter "Q", as an initial - contains
+
+211
+00:35:21,730 --> 00:35:27,631
+the exact same number of "Q" as the
+other Sura. So, you count this "Q"
+
+212
+00:35:27,631 --> 00:35:31,360
+and then you go and find this "Q" and
+count it, and so on, this is a physical
+
+213
+00:35:31,360 --> 00:35:37,150
+fact. The total occurrence of the letter
+"Q" in this Q-initialed Sura is also
+
+214
+00:35:37,150 --> 00:35:47,940
+57, 19 times 3. Now, when you go back to
+Sura "Q" here, you notice that "Q"
+
+215
+00:35:47,940 --> 00:35:57,500
+is a symbol, or stands for Quran. "Q" stands
+for Quran or "Q" here stands for Quran.
+
+216
+00:35:57,500 --> 00:36:07,000
+And if you add the 57 "Q" of
+this Sura number 50, plus the 57 "Qaf"
+
+217
+00:36:07,000 --> 00:36:16,300
+ or "Q" in Sura number 42, also 57,
+57 plus 57 is 114, which is exactly the same
+
+218
+00:36:16,300 --> 00:36:28,200
+number as the Suras of Quran. 57 plus 57
+equals 114, the number of Suras in Quran.
+
+219
+00:36:28,200 --> 00:36:35,247
+You notice that the Sura "Q"
+is number 50 and it consists of 45
+
+220
+00:36:35,247 --> 00:36:41,311
+verses. If you add the number of the
+Sura which is 50 to the number of verses
+
+221
+00:36:41,311 --> 00:36:49,090
+in the Sura which is 45, the total is 95
+or 19 times 5. Well, this is half the
+
+222
+00:36:49,090 --> 00:36:55,955
+story. If you go to the only other Sura
+initialed with "Q" which is Sura number 42,
+
+223
+00:36:55,955 --> 00:37:02,364
+you see that the number of verses is 53.
+And if you add the number of the Sura
+
+224
+00:37:02,364 --> 00:37:07,796
+to the number of the verses, you get
+exactly the same total as Sura "Q",
+
+225
+00:37:07,796 --> 00:37:15,130
+which is 95. 42 plus 53 is 95, or 19 times 5.
+
+226
+00:37:15,130 --> 00:37:21,148
+And with Sura "Q", 50, the number of
+the Sura, plus the number of verses 45,
+
+227
+00:37:21,148 --> 00:37:30,861
+50 plus 45 is 95, or 19 times 5. In this
+Sura, the Quran is described as "Majeed."
+
+228
+00:37:30,861 --> 00:37:33,305
+(50:1) قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ
+
+229
+00:37:33,305 --> 00:37:39,838
+And this word "Majeed" has its numerical value is 57,
+
+230
+00:37:39,838 --> 00:37:48,789
+which is the number of the letter "Q"
+in this Sura. "Majeed", the M is 30, the
+
+231
+00:37:48,789 --> 00:38:00,000
+Jeem is 3, the Ya is 10, and the Daal is 4,
+and you add these numbers, 30, plus 3,
+
+232
+00:38:00,000 --> 00:38:08,769
+plus 10, plus 4 - the total is 57, 19 times
+3. When the Quran was revealed, there were
+
+233
+00:38:08,769 --> 00:38:14,619
+no numbers. These letters were used as
+numbers. So, you can look at the "Meem" as
+
+234
+00:38:14,619 --> 00:38:20,769
+the letter "Meem" or M, and also as the
+numeral 30. The same with the other
+
+235
+00:38:20,769 --> 00:38:26,559
+letters. So, this is a universal
+established system of... where the alphabet
+
+236
+00:38:26,559 --> 00:38:38,529
+letters are used as numbers. When we go
+to Sura 68, which is initialed with the
+
+237
+00:38:38,529 --> 00:38:48,928
+letter "NuN", N, if you count the letter
+N wherever you see it in this Sura,
+
+238
+00:38:48,928 --> 00:38:59,760
+you find that the total is 133,
+19 times 7. In the Quran, there are three
+
+239
+00:38:59,760 --> 00:39:12,793
+Suras initialed with the letter "Saad." The
+first one is Sura number 7.
+
+240
+00:39:12,793 --> 00:39:18,900
+It is initialed with the letters: Alef Lam Meem Saad (A.L.M.S.). The second Sura that's initialed
+
+241
+00:39:18,900 --> 00:39:25,168
+with this letter is Sura number 19,
+
+242
+00:39:25,168 --> 00:39:36,090
+Sura Maryam, which has five initials:
+Kaf Ha Ya 'Ayn Saad. So, this is the
+
+243
+00:39:36,090 --> 00:39:40,890
+second Sura where we see the initial,
+the letter Saad as an initial.
+
+244
+00:39:40,890 --> 00:39:49,440
+The third Sura initialed with this letter is Sura number 38, which is also entitled
+
+245
+00:39:49,440 --> 00:40:04,684
+Saad. The name of the Sura is Saad, and
+the initial is Saad. So, these are three
+
+246
+00:40:04,684 --> 00:40:08,910
+Suras initialed with the letter Saad, and
+when you count the letter Saad in the
+
+247
+00:40:08,910 --> 00:40:15,000
+three Suras, the total comes to 152, or
+19 times 8.
+
+248
+00:41:46,825 --> 00:41:51,656
+There is one Sura in the Quran
+initialed with the letters
+
+249
+00:41:51,656 --> 00:41:59,979
+Ya Seen, two letters, Ya and Seen.
+It is Sura number 36. See, the first verse is
+
+250
+00:41:59,979 --> 00:42:06,880
+the two letters Ya and Seen. And if you count these two letters, Ya and Seen in the
+
+251
+00:42:06,880 --> 00:42:18,099
+whole Sura, the total is 285, or 19 times
+15. So, you see that consistently, the
+
+252
+00:42:18,099 --> 00:42:24,759
+Suras contain a number of their
+initials that is consistently a multiple
+
+253
+00:42:24,759 --> 00:42:37,749
+of 19. There are 7 Suras initialed
+with the letters Ha and Meem, 7
+
+254
+00:42:37,749 --> 00:42:48,549
+consecutive Suras, beginning at Sura
+number 40. See, there is Sura number
+
+255
+00:42:48,549 --> 00:42:57,369
+40, initialed with the letters Ha
+Meem. The whole verse consists of just
+
+256
+00:42:57,369 --> 00:43:09,130
+the two letters, Ha Meem, 7
+consecutive Suras. This is the last one,
+
+257
+00:43:09,130 --> 00:43:15,282
+Sura number 46. It is initialed with the letters Ha Meem.
+
+258
+00:43:15,282 --> 00:43:21,420
+And you count these distinctive unique
+letters, Ha and Meem, in the seven
+
+259
+00:43:21,420 --> 00:43:30,930
+Suras. And you find that the total is
+2147, the total of Ha plus Meem in the
+
+260
+00:43:30,930 --> 00:43:43,770
+7 Suras. This is 19 times 113,
+2147. This means if only one letter Ha or one
+
+261
+00:43:43,770 --> 00:43:50,220
+letter Meem was lost or added in the
+last 1400 years, the whole mathematical
+
+262
+00:43:50,220 --> 00:43:55,800
+system collapses. But as it is, you count
+them right now in any Quran anywhere in
+
+263
+00:43:55,800 --> 00:44:03,134
+the world and you find that Ha and Meem
+in the 7 Ha Meem initialed Suras
+
+264
+00:44:03,134 --> 00:44:10,017
+totals 2147, or 19 times 113.
+
+265
+00:44:21,307 --> 00:44:30,270
+Sura number 42 has two sets of initials. As you have just
+
+266
+00:44:30,270 --> 00:44:37,020
+seen, it has the initials Ha Meem in verse
+one, and verse two of this Sura has the
+
+267
+00:44:37,020 --> 00:44:44,430
+initials 'Ayn Seen Qaf, three letters, 'Ayn
+Seen and Qaf. And if you count these
+
+268
+00:44:44,430 --> 00:44:51,920
+three distinct letters in this Sura, 'Ayn
+plus Seen plus Qaf, the total is 209
+
+269
+00:44:51,920 --> 00:44:58,980
+or 19 times 11.
+Sura number 19 has the largest or the
+
+270
+00:44:58,980 --> 00:45:06,010
+biggest set of initials. It has five letters. This is Sura number
+
+271
+00:45:06,010 --> 00:45:19,150
+19, and it is initialed with five letters:
+Kaf Ha Ya 'Ayn Saad. And you add, you 
+
+272
+00:45:19,150 --> 00:45:30,500
+count these letters in this Sura,
+the five letters total: 798, or 19 times 42.
+
+273
+00:45:30,500 --> 00:45:38,500
+Now, I wish to remind you that the
+letter Saad, for example, interacts or is
+
+274
+00:45:38,500 --> 00:45:43,690
+interlocking with the other Saad
+initialed Suras, Sura number seven and
+
+275
+00:45:43,690 --> 00:45:48,507
+Surah number 38.
+You remember that this letter Saad
+
+276
+00:45:48,507 --> 00:45:55,830
+in the three Saad-initialed Suras is 152,
+or 19 times 8, but it also
+
+277
+00:45:55,830 --> 00:46:01,518
+is intricately intertwined with these
+letters in this Sura to give us a total
+
+278
+00:46:01,518 --> 00:46:09,991
+of 798, or 19 times 42. So, you can see
+that this mathematical system is far
+
+279
+00:46:09,991 --> 00:46:12,527
+beyond human capability.
+
+280
+00:47:18,549 --> 00:47:23,539
+There are six Suras in the Quran
+initialed with these letters:
+
+281
+00:47:23,539 --> 00:47:34,520
+Alef Laam Meem, A.L.M. They are Suras
+number 2, 3, 29, 30, 31, and 32. This happens
+
+282
+00:47:34,520 --> 00:47:45,799
+to be Sura number 32. And every single
+one of the six Suras contains a total
+
+283
+00:47:45,799 --> 00:47:53,569
+of these letters which is a multiple of
+19, every, every one. For example, Sura
+
+284
+00:47:53,569 --> 00:48:03,309
+number 2 contains 9899 of these letters
+and that's a multiple 19, 19 times 521.
+
+285
+00:48:03,309 --> 00:48:08,180
+Sura number 3 also contains a multiple
+of 19 of these letters:
+
+286
+00:48:08,180 --> 00:48:14,630
+Alef Laam Meem, and so on. Every one of
+the six Suras contains a total of Alef
+
+287
+00:48:14,630 --> 00:48:18,996
+plus Laam plus Meem which is a multiple of 19.
+
+288
+00:49:02,376 --> 00:49:05,408
+There are six... there are five...
+
+289
+00:49:07,328 --> 00:49:10,201
+There are five Suras in the Quran initialed with
+
+290
+00:49:10,201 --> 00:49:17,400
+these three letters: Alef Laam Ra, A.L.R.
+And every single one of the five Suras
+
+291
+00:49:17,400 --> 00:49:30,000
+contains a total of Alef plus Laam plus Ra, which is a multiple of 19, every one.
+
+292
+00:50:42,710 --> 00:50:50,110
+Sura number seven is initialed with the
+four letters: Alef Laam Meem Saad,
+
+293
+00:50:50,110 --> 00:50:57,712
+as you see here. And when you count these
+letters Alef plus Laam plus Meem plus Saad,
+
+294
+00:50:57,712 --> 00:51:08,860
+in this Sura, the total comes to 5320
+which is 19 times 280. And again, I wish
+
+295
+00:51:08,860 --> 00:51:14,410
+to remind you that this letter Saad
+interlocks between this Sura and the
+
+296
+00:51:14,410 --> 00:51:19,420
+other Saad-initialed Suras, Sura number 19 and Sura number 38, and every time
+
+297
+00:51:19,420 --> 00:51:23,650
+within the Sura, and also with its
+sister Suras where the letter Saad is
+
+298
+00:51:23,650 --> 00:51:29,640
+found, the totals are consistently a
+multiple of 19.
+
+299
+00:52:10,539 --> 00:52:21,828
+Sura number 13 is initialed with the
+letters Alef Laam Meem Ra, four initials,
+
+300
+00:52:21,828 --> 00:52:29,761
+Alef Laam Meem Ra. When you count these letters Alef plus Laam, plus Meem, plus Ra
+
+301
+00:52:29,761 --> 00:52:33,285
+in this Sura, you find that the total is
+
+302
+00:52:33,285 --> 00:52:51,699
+1482, 19 times 78. There are five Suras
+in the Quran initialed with the letters
+
+303
+00:52:51,699 --> 00:53:02,989
+Ha, as we see in Sura 19 here, there's
+the letter Ha, one of the five initials
+
+304
+00:53:02,989 --> 00:53:13,005
+in Sura 19. And then in Sura "Ta Ha" there it is, Ta Ha.
+
+305
+00:53:13,005 --> 00:53:30,000
+And the initials Ta Seen Meem in Sura number 26 right here, Ta Seen Meem.
+
+306
+00:53:30,000 --> 00:53:40,276
+And in Sura 27, it is the initials
+Ta Seen, right here. And Ta Seen Meem
+
+307
+00:53:40,276 --> 00:53:52,759
+in Sura number 28, Ta Seen Meem. You
+count these letters in the 5 Suras
+
+308
+00:53:52,759 --> 00:54:01,699
+and you find that the total is 1767, or 19
+times 93.
+
+309
+00:54:07,750 --> 00:54:13,908
+People keep asking why 19? Why did
+God choose the number 19 as the
+
+310
+00:54:13,908 --> 00:54:18,759
+common denominator throughout the Quran to
+prove every element of the Quran?
+
+311
+00:54:18,759 --> 00:54:23,140
+The numbers of verses, the number of Suras,
+the numbers of words from a certain
+
+312
+00:54:23,140 --> 00:54:29,739
+root, the numbers of letters, the
+initials as you have seen, and we find
+
+313
+00:54:29,739 --> 00:54:35,019
+the number 19 in the Quran in Sura
+number 74 verse number 30. We find
+
+314
+00:54:35,019 --> 00:54:39,579
+the number 19, and we find it
+connected with the proof that the Quran
+
+315
+00:54:39,579 --> 00:54:45,247
+is not human-made. Some people say the
+Quran is human-made.
+
+316
+00:54:45,247 --> 00:54:47,247
+إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ (74:25)
+
+317
+00:54:47,247 --> 00:54:51,999
+as it says in Sura number 74
+verse 25. And God says the answer to
+
+318
+00:54:51,999 --> 00:54:58,645
+these people is the number 19, as we see
+in verse 30 of Sura 74. Now, why 19?
+
+319
+00:54:58,645 --> 00:55:05,410
+It turns out that 19 is God's signature
+on everything He created. As to the
+
+320
+00:55:05,410 --> 00:55:14,601
+answer to the question "why 19?", we
+discovered that 19 is the basic message
+
+321
+00:55:14,601 --> 00:55:23,439
+of the Quran. Because 19 is the numerical
+value of the Arabic word ONE. So, the whole
+
+322
+00:55:23,439 --> 00:55:31,749
+message of the Quran is God alone, God is
+one, worship God alone. And 19 is the
+
+323
+00:55:31,749 --> 00:55:37,059
+numerical value of the word "WAHD" (one) in Arabic. When the Quran was revealed, there were
+
+324
+00:55:37,059 --> 00:55:41,956
+no numbers. The alphabet letters were
+used as numbers, and the letter "Wow"
+
+325
+00:55:41,956 --> 00:55:49,816
+also served as the numeral 6. The
+letter "Alef" was 1. The letter "Ha" was 8.
+
+326
+00:55:49,816 --> 00:55:57,418
+And the letter "Daal" was 4. "WAHD" 6
+plus 1 plus 8 plus 4, the total is 19.
+
+327
+00:55:57,418 --> 00:56:04,856
+And this is why 19 is the common denominator
+throughout the Quran, proving every
+
+328
+00:56:04,856 --> 00:56:08,317
+aspect, every element of the Quran.
+
+
