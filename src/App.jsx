@@ -14,7 +14,6 @@ function App() {
   const [filterVideo, setFilterVideo] = useState(true);
   const [copyFeedback, setCopyFeedback] = useState(null); // ID of the item copied
   const [shareFeedback, setShareFeedback] = useState(null); // ID of the item shared
-  const [visibleCount, setVisibleCount] = useState(50);
   const [recentSearches, setRecentSearches] = useState(() => {
     const saved = localStorage.getItem('recentSearches');
     return saved ? JSON.parse(saved) : [];
@@ -40,7 +39,6 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setDebouncedSearchTerm(searchTerm);
-      setVisibleCount(50); // Reset pagination on new search
     }, 300);
     return () => clearTimeout(timer);
   }, [searchTerm]);
@@ -83,10 +81,6 @@ function App() {
 
     return matches;
   }, [debouncedSearchTerm, files, filterAudio, filterVideo]);
-
-  const visibleResults = useMemo(() => {
-    return results.slice(0, visibleCount);
-  }, [results, visibleCount]);
 
   // Modal Scrolling Logic
   const activeBlockRef = React.useRef(null);
@@ -259,12 +253,12 @@ function App() {
           </div>
         ) : (
           <div className="results-grid">
-            {visibleResults.length > 0 ? (
+            {results.length > 0 ? (
               <>
                 <div className="results-info" style={{marginBottom: '1rem'}}>
-                  Showing {visibleResults.length} of {results.length} matches
+                  Found {results.length} matches
                 </div>
-                {visibleResults.map((result, i) => (
+                {results.map((result, i) => (
                   <div key={result.id} className="result-card" onClick={() => openFullView(result)}>
                     <div className="result-header">
                       <div className="header-left">
@@ -301,11 +295,6 @@ function App() {
                     </div>
                   </div>
                 ))}
-                {results.length > visibleCount && (
-                  <button className="btn-load-more" onClick={() => setVisibleCount(prev => prev + 50)}>
-                    Load More Results ({results.length - visibleCount} remaining)
-                  </button>
-                )}
               </>
             ) : debouncedSearchTerm.length >= 2 ? (
               <div className="loading-view">
