@@ -14,6 +14,7 @@ function App() {
   const [filterVideo, setFilterVideo] = useState(true);
   const [copyFeedback, setCopyFeedback] = useState(null); // ID of the item copied
   const [shareFeedback, setShareFeedback] = useState(null); // ID of the item shared
+  const [visibleResults, setVisibleResults] = useState(100);
   const [recentSearches, setRecentSearches] = useState(() => {
     const saved = localStorage.getItem('recentSearches');
     return saved ? JSON.parse(saved) : [];
@@ -39,6 +40,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setDebouncedSearchTerm(searchTerm);
+      setVisibleResults(100); // Reset pagination on new search
     }, 300);
     return () => clearTimeout(timer);
   }, [searchTerm]);
@@ -235,6 +237,17 @@ function App() {
           </div>
         </div>
 
+        {debouncedSearchTerm.length >= 2 && (
+          <div className="filter-group" style={{marginTop: '0.5rem'}}>
+            <button 
+              className="filter-chip"
+              style={{background: 'rgba(255,255,255,0.05)', color: '#aaa', cursor: 'default'}}
+            >
+              Showing {Math.min(results.length, visibleResults)} of {results.length} matches
+            </button>
+          </div>
+        )}
+
         <div className="results-info">
           {files.length > 0 ? (
             <span>
@@ -258,7 +271,7 @@ function App() {
                 <div className="results-info" style={{marginBottom: '1rem'}}>
                   Found {results.length} matches
                 </div>
-                {results.map((result, i) => (
+                {results.slice(0, visibleResults).map((result, i) => (
                   <div key={result.id} className="result-card" onClick={() => openFullView(result)}>
                     <div className="result-header">
                       <div className="header-left">
@@ -295,6 +308,20 @@ function App() {
                     </div>
                   </div>
                 ))}
+
+                {results.length > visibleResults && (
+                  <div className="load-more-container">
+                    <button 
+                      className="btn-load-more" 
+                      onClick={() => setVisibleResults(prev => prev + 100)}
+                    >
+                      Load More (100+)
+                    </button>
+                    <p className="load-more-info">
+                      Showing {visibleResults} of {results.length} results
+                    </p>
+                  </div>
+                )}
               </>
             ) : debouncedSearchTerm.length >= 2 ? (
               <div className="loading-view">
